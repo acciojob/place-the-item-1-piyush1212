@@ -31,5 +31,6 @@
   flex: 0 0 auto; /* Flex-grow, flex-shrink, flex-basis */
 	display: flex;
 	justify-content: space-between;
+	font-size: 50px;
   /* margin-bottom: 10px; /* Adjust as needed */ */
 }
